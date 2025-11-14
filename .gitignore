@@ -13,8 +13,8 @@ venv/
 .env
 .env.*
 
-# Streamlit
-.streamlit/
+# # Streamlit
+.streamlit/secrets.toml
 
 # Tool caches
 .pytest_cache/
